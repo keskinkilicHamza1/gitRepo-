@@ -1,2 +1,6 @@
 veritabani2.txt 
 veritabani3.txt 
+
+belgeler/*
+
+!belgeler/dosya1.html 
