@@ -1,1 +1,2 @@
-printf("hi Bro ")
+print("hi Bro ")
+print ("deneme 2 ")
